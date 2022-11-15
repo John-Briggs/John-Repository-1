@@ -1,7 +1,9 @@
 # John-Repository-1
 This is a repository containing a subset of data on health in Georgia, and instructional material on how to create this subset.
 
-The repository also contains two python notebooks that are begginer modules on using the pandas packages for data analysis.
+The repository also contains two python notebooks that are begginer modules:
+1. Module on getting started using the pandas package
+2. Module on using the pandas package for data analysis.
 
 This data came from the County Health dataset.
 
