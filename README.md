@@ -11,3 +11,5 @@ This data is for doctors and other scientist in Georgia that want to know more a
 
 This repository was created so doctors and other scientist could figure out why people in Georgia have bad health. People might use it to improve the health of people in Georgia.
 ![doGYx--georgia-obesity-levels-](https://user-images.githubusercontent.com/118312341/203134954-12d6f0e4-02c3-4fdf-88f9-54a9c02db56c.png)
+
+![P8Sm8-georgia-food-environment-index-](https://user-images.githubusercontent.com/118312341/203143028-c5bdbaa8-b0dd-4dc6-acdb-2f3711369c83.png)
