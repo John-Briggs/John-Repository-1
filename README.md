@@ -1,4 +1,4 @@
-# John-Repository-1
+# Nutrition Issues In Georgia
 This is a repository containing subsets on Georgia adult obesity and Georgia food environment index by county along with visual maps for each of the subsets. It also gives instructional material on how to create these subsets.
 
 The repository also contains two python notebooks that are begginer modules:
