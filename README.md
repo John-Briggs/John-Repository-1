@@ -11,7 +11,7 @@ This data is for doctors in Georgia who are interested in discovering the proble
 
 This repository was created so doctors could figure out why people in Georgia have bad nutrition and suffer from obesity. People might use it to help improve the nutrition of people in Georgia.
 
-# Visualizations
+## Visualizations
 This choropleth map shows the levels of adult obesity recorded in each county in the state of Georgia. The lighter the shade means the lower the obesity level is, and the darker the shade means the higher the obesity level.
 ![doGYx--georgia-obesity-levels-](https://user-images.githubusercontent.com/118312341/203134954-12d6f0e4-02c3-4fdf-88f9-54a9c02db56c.png)
 
