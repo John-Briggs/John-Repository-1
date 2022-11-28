@@ -5,7 +5,7 @@ The repository also contains two python notebooks that are begginer modules:
 1. Module on getting started using the pandas package
 2. Module on using the pandas package for data analysis.
 
-This data came from the County Health dataset.
+This data came from the County Health dataset. It shows many different health related statistics in every county in the United States. I used this dataset because I wanted to filter this data so I could look specifically at Georgia obesity rates and see how they are related to the food environment index. 
 
 This data is for doctors in Georgia who are interested in discovering the problem of adult obesity in certain places in Georgia, and the lack of nutrition people are getting from there food in certain places in Georgia.
 
